@@ -1,0 +1,38 @@
+div#navigation{
+    background:#0c63e4;
+    color: #f0f0f0;
+}
+
+.nav-link{
+    color: #f0f0f0;
+}
+
+li#role{
+    float: right;
+}
+
+h4{
+    background-color: gainsboro;
+}
+
+caption {
+    caption-side: top;
+   color: #000000;
+   background-color: gainsboro;
+    }
+
+
+
+.form-control{
+    width: 20%;
+}
+
+.panel-body{
+    height: 40%;
+    overflow-y:scroll;
+}
+
+thead{
+    background-color: aquamarine;
+}
+
